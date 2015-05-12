@@ -53,5 +53,11 @@ SELECT DISTINCT 0, t0.Z_PK, t0.Z_OPT, t0.ZNAME FROM ZB t0 LEFT OUTER JOIN Z_1MAN
 Both of these queries examine the values of both `Z_1MANYAS` and `Z_2MANYBS` in the join table, allowing them both to use the compound index. Thus, we gain predictably symmetric query performance.
 
 
+## Apple Bug Reports
+
+* Performance Issue: [Apple Radar #20924980](rdar://20924980) | [Open Radar]()
+* Enable "ALL manyBs == nil" Predicate: [Apple Radar #20926315](rdar://20926315) | [Open Radar]()
+
+
 *pgor, 12may15*
 
