@@ -55,8 +55,8 @@ Both of these queries examine the values of both `Z_1MANYAS` and `Z_2MANYBS` in 
 
 ## Apple Bug Reports
 
-* Performance Issue: [Apple rdar://20924980](rdar://20924980) | [Open Radar]()
-* Enable "ALL manyBs == nil" Predicate: [Apple rdar://20926315](rdar://20926315) | [Open Radar]()
+* Performance Issue: [Apple rdar://20924980](rdar://20924980) | [Open Radar](http://www.openradar.me/radar?id=4935382823075840)
+* Enable "ALL manyBs == nil" Predicate: [Apple rdar://20926315](rdar://20926315) | [Open Radar](http://www.openradar.me/radar?id=6705001254617088)
 
 
 *pgor, 12may15*
